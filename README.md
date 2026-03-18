@@ -1,4 +1,4 @@
-# EDA in Pandas — World Population
+# EDA in Pandas - World Population
 
 A beginner-friendly EDA project analyzing global population trends from 1970 to 2022 using Python.
 
