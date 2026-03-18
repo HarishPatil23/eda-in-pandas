@@ -1,6 +1,6 @@
 # EDA in Pandas — World Population
 
-Exploratory Data Analysis of global population trends from 1970 to 2022 using Python.
+A beginner-friendly EDA project analyzing global population trends from 1970 to 2022 using Python.
 
 ## Dataset
 `world_population.csv` — 234 countries with population figures across 8 decades, plus area, density, growth rate, and world population percentage.
